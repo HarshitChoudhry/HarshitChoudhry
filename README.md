@@ -6,7 +6,8 @@ My interests lie in a wide range of tech-related fields, including:
 
 - Data Science
 - Data Scrapping 
-- Tableau
+- GenAI
+- Machine Learning
 
 ## 🌱 Learning Journey
 I am on an exciting learning journey, where I embrace challenges as opportunities for growth. I believe that every step forward is a chance to improve myself and create a positive impact in the world.
@@ -24,7 +25,10 @@ Let's connect on LinkedIn! You can find my profile here: [Harshit Choudhary]http
 Here are some of the technologies and programming languages I work with:
 
 - 🐍 Python
--   MySQL 
+-   MySQL
+-   Selenium
+-   BeautifulSoup
+-   PowerBI
 <!-- add your own -->
 Feel free to ask if you have any questions about my tech stack or if you want to discuss any tech-related topics!
 
